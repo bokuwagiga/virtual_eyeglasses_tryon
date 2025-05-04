@@ -79,6 +79,9 @@ To ensure the application works correctly, you need to add the `lbfmodel.yaml` f
    python app.py
    ```
 
+### 4. Eyeglass Gallery Setup
+1. Place eyeglass images in the `eyeglass_images` folder
+
 ## Usage
 
 1. Ensure the ESP32-S3 is powered on and connected to your Wi-Fi network
