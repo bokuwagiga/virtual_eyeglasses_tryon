@@ -137,4 +137,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
+For a detailed report on this project, refer to the `Project_Report.pdf` file included in the repository.
+
 Giga Shubitidze - [GitHub Profile](https://github.com/bokuwagiga)
